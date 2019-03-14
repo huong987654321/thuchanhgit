@@ -1,0 +1,2 @@
+# thuchanhgit
+how use thuchanhgit
